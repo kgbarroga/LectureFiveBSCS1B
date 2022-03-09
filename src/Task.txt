@@ -1,0 +1,4 @@
+Create a Car Class that has a Constructor.
+    The constructor should take in a parameter which is a Car Brand.
+    The value for the Car brand should come from a keyboard input.
+    Display the value of the car brand within the scope of the constructor.

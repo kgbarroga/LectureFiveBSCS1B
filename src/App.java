@@ -82,7 +82,8 @@ public class App {
         /**
          * Constructor Example
          */
-        Test newTest = new Test();
+        String strVal = "String Sample";
+        // Test newTest = new Test(strVal);
         
         
 
